@@ -143,7 +143,7 @@
 
     <!-- Utility -->
     <log4j.version>1.2.17</log4j.version>
-    <slf4j.version>1.7.30</slf4j.version>
+    <slf4j.version>2.0.6</slf4j.version>
     <xerces.version>2.12.2</xerces.version>
     <xalan.version>2.7.2</xalan.version>
     <ehcache.version>2.10.2.2.21</ehcache.version>
