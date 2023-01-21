@@ -79,7 +79,7 @@
     <!-- Spark versions -->
     <spark.version>3.3.1</spark.version>
     <spark.version.dir>spark31</spark.version.dir>
-    <janino.version>3.0.16</janino.version>
+    <janino.version>3.1.9</janino.version>
 
     <kryo.version>4.0.0</kryo.version>
 
