@@ -63,7 +63,7 @@
     <spotbugs.version>3.1.1</spotbugs.version>
 
     <!-- Hadoop versions -->
-    <hadoop2.version>3.3.3</hadoop2.version>
+    <hadoop2.version>3.3.5</hadoop2.version>
     <yarn.version>3.3.4</yarn.version>
 
     <!-- Hive versions -->
@@ -74,7 +74,7 @@
     <hbase-hadoop2.version>2.3.0</hbase-hadoop2.version>
 
     <!-- Kafka versions -->
-    <kafka.version>1.0.0</kafka.version>
+    <kafka.version>3.4.1</kafka.version>
 
     <!-- Spark versions -->
     <spark.version>3.3.1</spark.version>
@@ -143,7 +143,7 @@
 
     <!-- Utility -->
     <log4j.version>1.2.17</log4j.version>
-    <slf4j.version>1.7.30</slf4j.version>
+    <slf4j.version>1.7.34</slf4j.version>
     <xerces.version>2.12.2</xerces.version>
     <xalan.version>2.7.2</xalan.version>
     <ehcache.version>2.10.2.2.21</ehcache.version>
