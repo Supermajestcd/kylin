@@ -71,7 +71,7 @@
     <hive-hcatalog.version>3.1.3</hive-hcatalog.version>
 
     <!-- HBase versions -->
-    <hbase-hadoop2.version>2.3.0</hbase-hadoop2.version>
+    <hbase-hadoop2.version>2.5.8-hadoop3</hbase-hadoop2.version>
 
     <!-- Kafka versions -->
     <kafka.version>1.0.0</kafka.version>
