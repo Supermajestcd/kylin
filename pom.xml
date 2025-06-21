@@ -113,7 +113,7 @@
     <commons-lang.version>2.6</commons-lang.version>
     <commons-httpclient.version>3.1</commons-httpclient.version>
     <commons-io.version>2.11.0</commons-io.version>
-    <commons-upload.version>1.3.3</commons-upload.version>
+    <commons-upload.version>1.6.0</commons-upload.version>
     <commons-math3.version>3.1.1</commons-math3.version>
     <commons-collections.version>3.2.2</commons-collections.version>
     <commons-pool.version>2.5.0</commons-pool.version>
@@ -155,7 +155,7 @@
     <cglib.version>3.2.4</cglib.version>
     <supercsv.version>2.4.0</supercsv.version>
     <cors.version>2.5</cors.version>
-    <tomcat.version>8.5.78</tomcat.version>
+    <tomcat.version>9.0.106</tomcat.version>
     <t-digest.version>3.1</t-digest.version>
     <freemarker.version>2.3.23</freemarker.version>
     <rocksdb.version>5.18.4</rocksdb.version>
