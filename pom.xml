@@ -63,7 +63,7 @@
     <spotbugs.version>3.1.1</spotbugs.version>
 
     <!-- Hadoop versions -->
-    <hadoop2.version>3.3.3</hadoop2.version>
+    <hadoop2.version>3.4.1</hadoop2.version>
     <yarn.version>3.3.4</yarn.version>
 
     <!-- Hive versions -->
@@ -119,7 +119,7 @@
     <commons-pool.version>2.5.0</commons-pool.version>
 
     <!-- Calcite deps, keep compatible with calcite.version -->
-    <jackson.version>2.13.4.2</jackson.version>
+    <jackson.version>2.15.0</jackson.version>
 
     <!-- Test Dependency versions -->
     <antlr.version>3.4</antlr.version>
@@ -135,7 +135,7 @@
     <guava-testlib.version>28.2-jre</guava-testlib.version>
 
     <!-- Commons -->
-    <commons-lang3.version>3.5</commons-lang3.version>
+    <commons-lang3.version>3.18.0</commons-lang3.version>
     <commons-email.version>1.5</commons-email.version>
     <commons-validator.version>1.4.0</commons-validator.version>
     <commons-compress.version>1.21</commons-compress.version>
