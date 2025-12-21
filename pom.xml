@@ -68,7 +68,7 @@
 
     <!-- Hive versions -->
     <hive.version>3.1.3</hive.version>
-    <hive-hcatalog.version>3.1.3</hive-hcatalog.version>
+    <hive-hcatalog.version>4.0.0</hive-hcatalog.version>
 
     <!-- HBase versions -->
     <hbase-hadoop2.version>2.3.0</hbase-hadoop2.version>
